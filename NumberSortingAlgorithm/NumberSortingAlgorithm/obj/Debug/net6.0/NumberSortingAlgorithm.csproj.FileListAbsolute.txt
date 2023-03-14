@@ -1,0 +1,15 @@
+C:\Users\arda_\source\repos\NumberSortingAlgorithm\NumberSortingAlgorithm\bin\Debug\net6.0\NumberSortingAlgorithm.exe
+C:\Users\arda_\source\repos\NumberSortingAlgorithm\NumberSortingAlgorithm\bin\Debug\net6.0\NumberSortingAlgorithm.deps.json
+C:\Users\arda_\source\repos\NumberSortingAlgorithm\NumberSortingAlgorithm\bin\Debug\net6.0\NumberSortingAlgorithm.runtimeconfig.json
+C:\Users\arda_\source\repos\NumberSortingAlgorithm\NumberSortingAlgorithm\bin\Debug\net6.0\NumberSortingAlgorithm.dll
+C:\Users\arda_\source\repos\NumberSortingAlgorithm\NumberSortingAlgorithm\bin\Debug\net6.0\NumberSortingAlgorithm.pdb
+C:\Users\arda_\source\repos\NumberSortingAlgorithm\NumberSortingAlgorithm\obj\Debug\net6.0\NumberSortingAlgorithm.csproj.AssemblyReference.cache
+C:\Users\arda_\source\repos\NumberSortingAlgorithm\NumberSortingAlgorithm\obj\Debug\net6.0\NumberSortingAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda_\source\repos\NumberSortingAlgorithm\NumberSortingAlgorithm\obj\Debug\net6.0\NumberSortingAlgorithm.AssemblyInfoInputs.cache
+C:\Users\arda_\source\repos\NumberSortingAlgorithm\NumberSortingAlgorithm\obj\Debug\net6.0\NumberSortingAlgorithm.AssemblyInfo.cs
+C:\Users\arda_\source\repos\NumberSortingAlgorithm\NumberSortingAlgorithm\obj\Debug\net6.0\NumberSortingAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\arda_\source\repos\NumberSortingAlgorithm\NumberSortingAlgorithm\obj\Debug\net6.0\NumberSortingAlgorithm.dll
+C:\Users\arda_\source\repos\NumberSortingAlgorithm\NumberSortingAlgorithm\obj\Debug\net6.0\refint\NumberSortingAlgorithm.dll
+C:\Users\arda_\source\repos\NumberSortingAlgorithm\NumberSortingAlgorithm\obj\Debug\net6.0\NumberSortingAlgorithm.pdb
+C:\Users\arda_\source\repos\NumberSortingAlgorithm\NumberSortingAlgorithm\obj\Debug\net6.0\NumberSortingAlgorithm.genruntimeconfig.cache
+C:\Users\arda_\source\repos\NumberSortingAlgorithm\NumberSortingAlgorithm\obj\Debug\net6.0\ref\NumberSortingAlgorithm.dll
